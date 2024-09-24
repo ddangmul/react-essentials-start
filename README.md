@@ -1,1 +1,1 @@
-# react-app-study
+# react-essentials-start
